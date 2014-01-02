@@ -1,11 +1,11 @@
 {
   "name": "jquery.smartWizard-bower",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "authors": [
     "James Muranga <jmured@gmail.com>"
   ],
   "description": "Bower package for jquery.smartWizard",
-  "main": "jquery.smartWizard.js",
+  "main": "js/jquery.smartWizard.js",
   "keywords": [
     "wizard",
     "jquery"
